@@ -113,3 +113,11 @@ lcsc-to-allegro/
 项目源码按 [GNU AGPL v3](LICENSE) 分发。第三方依赖保留各自许可证，见 [第三方说明](THIRD_PARTY_NOTICES.md)。工具使用 `easyeda2kicad`、`sexpdata` 和 `Shapely`；不代表或隶属于嘉立创、KiCad 或 Cadence。
 
 封装数据、厂家图纸及 Cadence 软件的权利仍属于其各自权利人。几何验证不等于完整可制造性评审或整板 DRC，通过后仍需结合厂家图纸、工艺和实际设计核对。
+
+## 项目维护与 AI 协作
+
+- **项目发起与维护**：[liuleonmoretti](https://github.com/liuleonmoretti)
+- **Codex**：辅助代码实现、调试、测试及项目文档整理。
+- **ChatGPT / GPT**：辅助方案讨论、问题分析与技术说明。
+
+本项目采用人机协作方式开发，由项目维护者负责需求确认、结果审核与发布。
