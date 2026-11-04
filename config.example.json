@@ -1,0 +1,6 @@
+{
+  "cadence_bin": "D:/Cadence/SPB_16.6/tools/pcb/bin",
+  "seed": "D:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/smr0603.dra",
+  "pad_report_view": "D:/Cadence/SPB_16.6/share/pcb/text/views/pad_rep_view.txt",
+  "board_seed": "D:/Cadence/SPB_16.6/share/pcb/translators/altium_proj_template/worklib/top/physical/Altium_Template1.brd"
+}
